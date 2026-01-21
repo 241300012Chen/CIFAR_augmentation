@@ -4,7 +4,7 @@ checkpoints/
 runs/
 results/
 
-# generated figures (可选：如果想上传图就删掉这行)
+# generated figures 
 figures/
 
 # python cache
